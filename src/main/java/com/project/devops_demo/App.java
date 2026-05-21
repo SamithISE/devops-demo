@@ -5,6 +5,6 @@ package com.project.devops_demo;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Buddy + Maven CI/CD Project Running Successfully");
+        System.out.println("Buddy + Maven CI/CD Project Running Successfully.It is triggered!...");
     }
 }
